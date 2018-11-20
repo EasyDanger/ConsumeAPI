@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background: #111111;
+	color: grey;
+	font-family: "Yamaha 10";
+}
+
+th {
+	color: red;
+}
+
+button {
+	color: #777777;
+	background-color: #000032;
+	background-repeat: no-repeat;
+	border: none;
+	cursor: pointer;
+	overflow: hidden;
+	outline: none;
+}
